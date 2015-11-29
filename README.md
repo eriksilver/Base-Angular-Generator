@@ -1,1 +1,1 @@
-# Developing a simple CMS
+# Basic generator with Foundation + Angular + UI Router + Firebase
